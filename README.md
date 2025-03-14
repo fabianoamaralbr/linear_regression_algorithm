@@ -211,7 +211,7 @@ Por não elevar ao quadrado os erros, o MAE é menos sensível a outliers.
     - Simplicidade e interpretabilidade.
     - Baixo custo computacional em problemas de baixa dimensão.
     - Muito útil como baseline (modelo de referência) para comparar com modelos mais complexos.
--**Limitações**<br>
+- **Limitações**<br>
     - Pode não capturar relações não-lineares.
     - Sensível a outliers, que podem distorcer os coeficientes.
     - Requer que as suposições sejam atendidas para garantir a validade das inferências.
